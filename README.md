@@ -1,27 +1,27 @@
 <div align="center">
-    <a href="https://www.idurarapp.com/">
+    <a href="https://www.mahendrakumarexports.com/">
   <img src="https://avatars.githubusercontent.com/u/50052356?s=200&v=4" width="128px" />
     </a>
-    <h1>Open Source ERP / CRM Accounting Invoice Quote</h1>
+    <h1>Mahendra kumar exports - Open Source ERP / CRM Accounting Invoice Quote</h1>
     <p align="center">
-        <p>IDURAR ERP CRM | Simple To Use</p>
+        <p>Mahendra kumar exports ERP CRM | Simple To Use</p>
     </p>
     
-  [www.idurarapp.com/open-source-erp-crm/](https://www.idurarapp.com/open-source-erp-crm/)
+  [www.mahendrakumarexports.com/open-source-erp-crm/](https://www.mahendrakumarexports.com/open-source-erp-crm/)
 
-IDURAR is Open Source ERP / CRM (Invoice / Quote / Accounting ) Based on Advanced Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
+Mahendra kumar exports is Open Source ERP / CRM (Invoice / Quote / Accounting ) Based on Advanced Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
 
 </div>
 
-**Live App Free Cloud Version** : [https://www.idurarapp.com/demo-erp-crm/](https://www.idurarapp.com/demo-erp-crm/)
+**Live App Free Cloud Version** : [https://www.mahendrakumarexports.com/demo-erp-crm/](https://www.mahendrakumarexports.com/demo-erp-crm/)
 
 ```
 🚀 Give a Star ⭐️ & Fork to this project ... Happy coding! 🤩`
 ```
 
-### Try IDURAR Premium :
+### Try Mahendra kumar exports Premium :
 
-- [https://cloud.idurarapp.com](https://cloud.idurarapp.com)
+- [https://cloud.mahendrakumarexports.com](https://cloud.mahendrakumarexports.com)
 
 ## Features :
 
@@ -33,13 +33,13 @@ Ant Design Framework(AntD) 🐜
 
 Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) 👨‍💻
 
-### May i can use IDURAR for Commercial use :
+### May i can use Mahendra kumar exports for Commercial use :
 
-- Yes You can use IDURAR for free for personal or Commercial use.
+- Yes You can use Mahendra kumar exports for free for personal or Commercial use.
 
 ### For custom developement service or premium Support :
 
-[Get in touch](mailto:hello@idurarapp.com)
+[Get in touch](mailto:hello@mahendrakumarexports.com)
 
 ## Our Sponsors
 
@@ -95,7 +95,7 @@ IDURAR is Open "Fair-Code" Source ERP / CRM (Invoice / Inventory / Accounting / 
 
 ## Custom Development Service
 
-Custom Development Service are available : [Get in touch](mailto:hello@idurarapp.com)
+Custom Development Service are available : [Get in touch](mailto:hello@mahendrakumarexports.com)
 
 ## Show your support
 

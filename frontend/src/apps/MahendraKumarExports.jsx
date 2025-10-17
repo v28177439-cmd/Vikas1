@@ -20,11 +20,11 @@ const DefaultApp = () => (
   </Localization>
 );
 
-export default function IdurarOs() {
+export default function MahendraKumarExports() {
   const { isLoggedIn } = useSelector(selectAuth);
 
   console.log(
-    '🚀 Welcome to IDURAR ERP CRM! Did you know that we also offer commercial customization services? Contact us at hello@idurarapp.com for more information.'
+    '🚀 Welcome to Mahendra kumar exports ERP CRM! Did you know that we also offer commercial customization services? Contact us at hello@mahendrakumarexports.com for more information.'
   );
 
   // // Online state

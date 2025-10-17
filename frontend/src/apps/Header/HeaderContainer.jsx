@@ -136,7 +136,7 @@ export default function HeaderContent() {
             boxShadow: '0 2px 0 rgb(82 196 26 / 20%)',
           }}
           onClick={() => {
-            window.open(`https://www.idurarapp.com/contact-us/`);
+            window.open(`https://www.mahendrakumarexports.com/contact-us/`);
           }}
         >
           {translate('Customize this App')}
@@ -157,5 +157,5 @@ export default function HeaderContent() {
 }
 
 //  console.log(
-//    '🚀 Welcome to IDURAR ERP CRM! Did you know that we also offer commercial customization services? Contact us at hello@idurarapp.com for more information.'
+//    '🚀 Welcome to Mahendra kumar exports ERP CRM! Did you know that we also offer commercial customization services? Contact us at hello@mahendrakumarexports.com for more information.'
 //  );

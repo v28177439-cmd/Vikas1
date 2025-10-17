@@ -1,5 +1,5 @@
 {
-  "name": "idurar-erp-crm",
+  "name": "mahendra-kumar-exports-erp-crm",
   "version": "4.1.0",
   "engines": {
     "npm": "10.2.4",
@@ -48,15 +48,15 @@
     "@": "src"
   },
   "main": "server.js",
-  "author": "IDURAR",
-  "email": "hello@idurarapp.com",
+  "author": "Mahendra kumar exports",
+  "email": "hello@mahendrakumarexports.com",
   "license": "Fair-code License",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/idurar/idurar-erp-crm/.git"
+    "url": "git+https://github.com/mahendrakumarexports/mahendra-kumar-exports-erp-crm/.git"
   },
   "bugs": {
-    "url": "https://github.com/idurar/idurar-erp-crm//issues"
+    "url": "https://github.com/mahendrakumarexports/mahendra-kumar-exports-erp-crm//issues"
   },
-  "homepage": "https://github.com/idurar/idurar-erp-crm/#readme"
+  "homepage": "https://github.com/mahendrakumarexports/mahendra-kumar-exports-erp-crm/#readme"
 }

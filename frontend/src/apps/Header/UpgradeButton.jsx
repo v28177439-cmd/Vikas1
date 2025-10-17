@@ -25,7 +25,7 @@ const SelfHostedPlan = () => {
           size="large"
           block
           onClick={() => {
-            window.open('https://cloud.idurarapp.com/pricing');
+            window.open('https://cloud.mahendrakumarexports.com/pricing');
           }}
         >
           Purchase Now
@@ -68,7 +68,7 @@ export default function UpgradeButton() {
       }}
       icon={<RocketOutlined />}
       onClick={() => {
-        window.open(`https://cloud.idurarapp.com/`);
+        window.open(`https://cloud.mahendrakumarexports.com/`);
       }}
     >
       {translate('Try Premium Version')}
@@ -77,5 +77,5 @@ export default function UpgradeButton() {
 }
 
 console.log(
-  '🚀 Welcome to IDURAR ERP CRM! Did you know that we also offer commercial customization services? Contact us at hello@idurarapp.com for more information.'
+  '🚀 Welcome to Mahendra kumar exports ERP CRM! Did you know that we also offer commercial customization services? Contact us at hello@mahendrakumarexports.com for more information.'
 );
